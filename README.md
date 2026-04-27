@@ -1,5 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/ItsDevMacB/ItsDevMacB/blob/output/github-snake-dark.svg)
