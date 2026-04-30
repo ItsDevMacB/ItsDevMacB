@@ -120,12 +120,6 @@ export default function AboutMe() {
 
 ## 👥 Also check my guys! &nbsp; <img src="./resources/squirtle_jammin.gif" width="32"/>
 
-<style>
-  .friends-table img[src*="avatars.githubusercontent.com"] {
-    border-radius: 50%;
-  }
-</style>
-
 <table align="center" class="friends-table">
   <tr>
     <th>&nbsp;</th>
