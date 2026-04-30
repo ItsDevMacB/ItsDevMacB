@@ -1,1 +1,183 @@
-![snake gif](https://github.com/ItsDevMacB/ItsDevMacB/blob/output/github-snake-dark.svg)
+<div align="center">
+
+# `< Hey there! I'm Brandon />` &nbsp; <img src="./resources/wave-hand-motion.gif" width="36"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6B6B&center=true&vCenter=true&width=500&lines=Building+stuff+that+(sometimes)+works+%F0%9F%94%A5;Making+bugs+features+since+day+1+%F0%9F%90%9B;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://img.shields.io/badge/Front--end%20Developer-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/UX%2FUI%20Designer%20Jr.-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+  &nbsp;
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/itsdevmacb?label=Follow%20me&style=for-the-badge&logo=github&labelColor=000&color=FF6B6B)](https://github.com/ItsDevMacB)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=ItsDevMacB&style=for-the-badge&color=FF6B6B&label=Profile+Views)](https://github.com/ItsDevMacB)
+
+</div>
+
+---
+
+## 👾 About Me &nbsp; <img src="./resources/meow_coffeespitting.gif" width="32"/>
+
+```jsx
+// src/components/AboutMe.jsx
+
+export default function AboutMe() {
+  return (
+    <Developer
+      alias="Mac B"
+      location="Puebla, México 🇲🇽"
+      birthday={new Date("2004-07-04")}
+      role={["Front-end Developer", "UX/UI Designer Jr."]}
+      languages={[
+        { lang: "Español", level: "Nativo" },
+        { lang: "English",  level: "Intermediate" },
+      ]}
+      passions={["sushi 🍣", "ramen 🍜", "coffee ☕", "clean interfaces & good stuff"]}
+      teamwork="Colaboro en equipos con comunicación clara, feedback constante y ganas de aprender"
+      currentlyLearning={["DevOps basics", "GSAP", "Three.js 🌐"]}
+      motto="pixel-perfect or nothing 🎨"
+    />
+  );
+}
+```
+
+---
+
+## 🛠️ Tech Stack &nbsp; <img src="./resources/meow_code.gif" width="32"/>
+
+<div align="center">
+
+**Design**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+
+[![My Skills](https://skillicons.dev/icons?i=astro,react,vue,angular,nextjs,wordpress,tailwind,bootstrap,nodejs&theme=dark)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,bash,obsidian,notion,md,windows,linux&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🌐 Connect with Me &nbsp; <img src="./resources/meow_heart_bongo.gif" width="28"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon_Martinez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrandon-martinez/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@itsmac__b-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsmac_b/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-bmartinezcallejo.contacto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmartinezcallejo.contacto@gmail.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats &nbsp; <img src="./resources/thisisfine.gif" width="32"/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItsDevMacB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDevMacB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" height="170"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItsDevMacB&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&starting_year=2026)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 My Contribution Snake &nbsp; <img src="./resources/jammin-snake.gif" width="32"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 👥 Also check my guys! &nbsp; <img src="./resources/squirtle_jammin.gif" width="32"/>
+
+<style>
+  .friends-table img[src*="avatars.githubusercontent.com"] {
+    border-radius: 50%;
+  }
+</style>
+
+<table align="center" class="friends-table">
+  <tr>
+    <th>&nbsp;</th>
+    <th>GitHub</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/70497127?v=4" height="40"/></td>
+    <td><a href="https://github.com/CrafterJe"><img src="https://img.shields.io/badge/CrafterJe-000?style=flat&logo=github"/></a></td>
+    <td><small>Back-end Developer</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/194047006?v=4" height="40"/></td>
+    <td><a href="https://github.com/OmarAnzures803"><img src="https://img.shields.io/badge/OmarAnzures803-000?style=flat&logo=github"/></a></td>
+    <td><small>Front-end / Full-Stack</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/148714589?v=4" height="40"/></td>
+    <td><a href="https://github.com/devcarlosGM"><img src="https://img.shields.io/badge/devcarlosGM-000?style=flat&logo=github"/></a></td>
+    <td><small>Full-Stack Developer</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/142453007?v=4" height="40"/></td>
+    <td><a href="https://github.com/Cacaguadios"><img src="https://img.shields.io/badge/Cacaguadios-000?style=flat&logo=github"/></a></td>
+    <td><small>Back-end Developer</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/147470735?v=4" height="40"/></td>
+    <td><a href="https://github.com/DiegoLopSed"><img src="https://img.shields.io/badge/DiegoLopSed-000?style=flat&logo=github"/></a></td>
+    <td><small>Back-end Developer</small></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="./resources/ballonerism_macs_head.png" height="420"/>
+
+<p>✦ &nbsp; <strong><em>"The best is yet to come."</em></strong> &nbsp; ✦</p>
+<p> Mac Miller 🎵</p>
+
+---
+
+<br>
+
+<img src="./resources/meow_ramen.png" width="40"/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge&labelColor=000)
+
+</div>
+
+<!--Like what you see? Feel free to fork this profile — no need to ask, just do it. Have a great day! ❤️-->

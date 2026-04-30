@@ -1,4 +1,4 @@
-name: GitHub Snake Contributor Game
+name: GitHub Snake Contributor Animation
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Snake
         uses: Platane/snk@v3
@@ -27,12 +27,13 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/FieryRed.svg?color_snake=#ffba08&color_dots=#03071e,#370617,#6a040f,#9d0208,#9d0208
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
