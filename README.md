@@ -1,6 +1,6 @@
 <div align="center">
 
-# `< Hey there! I'm Brandon />` &nbsp; <img src="./resources/wave-hand-motion.gif" width="36"/>
+# `< 𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙱𝚛𝚊𝚗𝚍𝚘𝚗 />` &nbsp; <img src="./resources/wave-hand-motion.gif" width="36"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6B6B&center=true&vCenter=true&width=500&lines=Building+stuff+that+(sometimes)+works+%F0%9F%94%A5;Making+bugs+features+since+day+1+%F0%9F%90%9B;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 👾 About Me &nbsp; <img src="./resources/meow_coffeespitting.gif" width="32"/>
+## 👾 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 &nbsp; <img src="./resources/meow_coffeespitting.gif" width="32"/>
 
 ```jsx
 // src/components/AboutMe.jsx
@@ -46,27 +46,27 @@ export default function AboutMe() {
 
 ---
 
-## 🛠️ Tech Stack &nbsp; <img src="./resources/meow_code.gif" width="32"/>
+## 🛠️ 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 &nbsp; <img src="./resources/meow_code.gif" width="32"/>
 
 <div align="center">
 
-**Design**
+**𝙳𝚎𝚜𝚒𝚐𝚗**
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
 
-**Languages**
+**𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python&theme=dark)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+**𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜**
 
 [![My Skills](https://skillicons.dev/icons?i=astro,react,vue,angular,nextjs,wordpress,tailwind,bootstrap,nodejs&theme=dark)](https://skillicons.dev)
 
-**Tools & Platforms**
+**𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,bash,obsidian,notion,md,windows,linux&theme=dark)](https://skillicons.dev)
 
-**Databases**
+**𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜**
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
@@ -74,7 +74,7 @@ export default function AboutMe() {
 
 ---
 
-## 🌐 Connect with Me &nbsp; <img src="./resources/meow_heart_bongo.gif" width="28"/>
+## 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝙼𝚎 &nbsp; <img src="./resources/meow_heart_bongo.gif" width="28"/>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ export default function AboutMe() {
 
 ---
 
-## 📊 GitHub Stats &nbsp; <img src="./resources/thisisfine.gif" width="32"/>
+## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 &nbsp; <img src="./resources/thisisfine.gif" width="32"/>
 
 <div align="center">
 
@@ -104,7 +104,7 @@ export default function AboutMe() {
 
 ---
 
-## 🐍 My Contribution Snake &nbsp; <img src="./resources/jammin-snake.gif" width="32"/>
+## 🐍 𝙼𝚢 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝚂𝚗𝚊𝚔𝚎 &nbsp; <img src="./resources/jammin-snake.gif" width="32"/>
 
 <div align="center">
 
@@ -118,13 +118,7 @@ export default function AboutMe() {
 
 ---
 
-## 👥 Also check my guys! &nbsp; <img src="./resources/squirtle_jammin.gif" width="32"/>
-
-<style>
-  .friends-table img[src*="avatars.githubusercontent.com"] {
-    border-radius: 50%;
-  }
-</style>
+## 👥 𝙰𝚕𝚜𝚘 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚐𝚞𝚢𝚜! &nbsp; <img src="./resources/squirtle_jammin.gif" width="32"/>
 
 <table align="center" class="friends-table">
   <tr>
@@ -167,8 +161,8 @@ export default function AboutMe() {
 
 <img src="./resources/ballonerism_macs_head.png" height="420"/>
 
-<p>✦ &nbsp; <strong><em>"The best is yet to come."</em></strong> &nbsp; ✦</p>
-<p> Mac Miller 🎵</p>
+<h3>✦ &nbsp; <strong><em>𝑻𝒉𝒆 𝒃𝒆𝒔𝒕 𝒊𝒔 𝒚𝒆𝒕 𝒕𝒐 𝒄𝒐𝒎𝒆.</em></strong> &nbsp; ✦</h3>
+<p>𝓜𝓪𝓬 𝓜𝓲𝓵𝓵𝓮𝓻 🎵</p>
 
 ---
 
