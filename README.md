@@ -92,9 +92,9 @@ export default function AboutMe() {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ItsDevMacB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=ffffff" height="170"/>
+<img src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/generated/overview.svg#gh-dark-mode-only" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDevMacB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" height="170"/>
+<img src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/generated/languages.svg#gh-dark-mode-only" height="170"/>
 
 <br/>
 
@@ -109,9 +109,9 @@ export default function AboutMe() {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/FieryRed.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/FieryRed.svg">
 </picture>
 
 </div>
