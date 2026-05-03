@@ -32,11 +32,11 @@ export default function AboutMe() {
       birthday={new Date("2004-07-04")}
       role={["Front-end Developer", "UX/UI Designer Jr."]}
       languages={[
-        { lang: "Español", level: "Nativo" },
+        { lang: "Spanish", level: "Native" },
         { lang: "English",  level: "Intermediate" },
       ]}
-      passions={["sushi 🍣", "ramen 🍜", "coffee ☕", "clean interfaces & good stuff"]}
-      teamwork="Colaboro en equipos con comunicación clara, feedback constante y ganas de aprender"
+      passions={["sushi 🍣", "ramen 🍜", "coffee ☕", "clean UIs & good stuff"]}
+      teamwork="I collaborate in teams with clear communication, constant feedback and desire to learn"
       currentlyLearning={["DevOps basics", "GSAP", "Three.js 🌐"]}
       motto="pixel-perfect or nothing 🎨"
     />
@@ -127,19 +127,19 @@ export default function AboutMe() {
     <th>Role</th>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/70497127?v=4" height="40"/></td>
-    <td><a href="https://github.com/CrafterJe"><img src="https://img.shields.io/badge/CrafterJe-000?style=flat&logo=github"/></a></td>
-    <td><small>Back-end Developer</small></td>
-  </tr>
-  <tr>
     <td><img src="https://avatars.githubusercontent.com/u/194047006?v=4" height="40"/></td>
     <td><a href="https://github.com/OmarAnzures803"><img src="https://img.shields.io/badge/OmarAnzures803-000?style=flat&logo=github"/></a></td>
-    <td><small>Front-end / Full-Stack</small></td>
+    <td><small>Full-Stack Developer</small></td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/148714589?v=4" height="40"/></td>
     <td><a href="https://github.com/devcarlosGM"><img src="https://img.shields.io/badge/devcarlosGM-000?style=flat&logo=github"/></a></td>
     <td><small>Full-Stack Developer</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/70497127?v=4" height="40"/></td>
+    <td><a href="https://github.com/CrafterJe"><img src="https://img.shields.io/badge/CrafterJe-000?style=flat&logo=github"/></a></td>
+    <td><small>Back-end Developer</small></td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/142453007?v=4" height="40"/></td>
