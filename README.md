@@ -92,9 +92,9 @@ export default function AboutMe() {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/generated/overview.svg#gh-dark-mode-only" height="170"/>
+<img src="https://github.com/itsdevmacb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" height="170"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/generated/languages.svg#gh-dark-mode-only" height="170"/>
+<img src="https://github.com/itsdevmacb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" height="170"/>
 
 <br/>
 
