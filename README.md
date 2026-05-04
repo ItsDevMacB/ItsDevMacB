@@ -92,15 +92,13 @@ export default function AboutMe() {
 
 <div align="center">
 
-<img src="https://github.com/itsdevmacb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" height="170"/>
-&nbsp;
-<img src="https://github.com/itsdevmacb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItsDevMacB&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&starting_year=2026)](https://git.io/streak-stats)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ItsDevMacB&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&starting_year=2026)](https://git.io/streak-stats)
-
-<!--Cambiar para arriba-->
+<img src="https://github.com/itsdevmacb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" height="170"/>
+&nbsp;
+<img src="https://github.com/itsdevmacb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" height="170"/>
 
 </div>
 
