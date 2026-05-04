@@ -100,6 +100,8 @@ export default function AboutMe() {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ItsDevMacB&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&starting_year=2026)](https://git.io/streak-stats)
 
+<!--Cambiar para arriba-->
+
 </div>
 
 ---
@@ -159,7 +161,7 @@ export default function AboutMe() {
 
 <div align="center">
 
-<img src="./resources/ballonerism_macs_head.png" height="420"/>
+<img src="./resources/ballonerism_macs_sky.png" height="420"/>
 
 <h3>✦ &nbsp; <strong><em>𝑻𝒉𝒆 𝒃𝒆𝒔𝒕 𝒊𝒔 𝒚𝒆𝒕 𝒕𝒐 𝒄𝒐𝒎𝒆.</em></strong> &nbsp; ✦</h3>
 <p>𝓜𝓪𝓬 𝓜𝓲𝓵𝓵𝓮𝓻 🎵</p>
