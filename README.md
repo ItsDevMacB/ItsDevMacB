@@ -1,17 +1,19 @@
+<!--Like what you see? Feel free to fork this profile — no need to ask, just do it. Have a great day! ❤️-->
+
 <div align="center">
 
 # `< 𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎! 𝙸'𝚖 𝙱𝚛𝚊𝚗𝚍𝚘𝚗 />` &nbsp; <img src="./resources/wave-hand-motion.gif" width="36"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF6B6B&center=true&vCenter=true&width=500&lines=Building+stuff+that+(sometimes)+works+%F0%9F%94%A5;Making+bugs+features+since+day+1+%F0%9F%90%9B;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=E0A8BC&center=true&vCenter=true&width=500&lines=Building+stuff+that+(sometimes)+works+%F0%9F%94%A5;Making+bugs+features+since+day+1+%F0%9F%90%9B;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Front--end%20Developer-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Front--end%20Developer-C07660?style=for-the-badge&labelColor=#0D1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/UX%2FUI%20Designer%20Jr.-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/UX%2FUI%20Designer%20Jr.-7C352F?style=for-the-badge&labelColor=0D1117"/>
   &nbsp;
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/itsdevmacb?label=Follow%20me&style=for-the-badge&logo=github&labelColor=000&color=FF6B6B)](https://github.com/ItsDevMacB)
+[![GitHub followers](https://img.shields.io/github/followers/itsdevmacb?label=Follow%20me%20ON&style=for-the-badge&logo=github&labelColor=000&color=FF6B6B)](https://github.com/ItsDevMacB)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=ItsDevMacB&style=for-the-badge&color=FF6B6B&label=Profile+Views)](https://github.com/ItsDevMacB)
 
@@ -109,9 +111,10 @@ export default function AboutMe() {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/FieryRed.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/FieryRed.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/AshSunset.svg">
+  <!--I'm just made a Light Mode Snake Animation... For no reason, why LIGHT MODE???, C'mon... show your eyes some love! 🙏-->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/EmberDusk.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItsDevMacB/ItsDevMacB/output/AshSunset.svg">
 </picture>
 
 </div>
@@ -173,5 +176,3 @@ export default function AboutMe() {
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-FF6B6B?style=for-the-badge&labelColor=000)
 
 </div>
-
-<!--Like what you see? Feel free to fork this profile — no need to ask, just do it. Have a great day! ❤️-->
