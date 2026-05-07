@@ -54,7 +54,7 @@ export default function AboutMe() {
 
 **𝙳𝚎𝚜𝚒𝚐𝚗**
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 **𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜**
 
