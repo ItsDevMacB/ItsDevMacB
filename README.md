@@ -30,7 +30,7 @@ export default function AboutMe() {
   return (
     <Developer
       alias="Mac B"
-      status="Currently moving to Linux 🐧💚"
+      status="Tuning Hyprland for flow 🎨"
       location="Puebla, México 🇲🇽"
       birthday={new Date("2004-07-04")}
       role={["Front-end Developer", "UX/UI Designer Jr."]}
