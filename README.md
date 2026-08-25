@@ -67,11 +67,19 @@ export default function AboutMe() {
 
 **𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,bash,obsidian,notion,md,windows,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,bash,obsidian,notion,md,windows&theme=dark)](https://skillicons.dev)
 
 **𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+**Learning day by day**
+
+[![My Skills](https://skillicons.dev/icons?i=vim,linux&theme=dark)](https://skillicons.dev)
+
+**My current OS**
+
+[![My Skills](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
 </div>
 
